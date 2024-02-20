@@ -1,3 +1,3 @@
 # ScaryGame_Group3
 
-Developed with Unreal Engine 5
+Unreal Engine 5 project for Game 310
